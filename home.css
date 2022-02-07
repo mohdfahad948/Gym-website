@@ -1,0 +1,293 @@
+.bf img{
+    width: 106px;
+    border-radius: 10px;
+    margin: 12px;
+}
+.bf{
+    background-color: #7c7c7f;
+    margin: 3px;
+    border-radius: 187px;
+    
+}
+
+.background img{
+
+    width: 88%;
+    opacity: 0.5;
+    height: 550px;
+    border-radius: 322px;
+    position: absolute;
+    right: 70px;
+    top: 76px;
+}
+.nav{
+    display: inline-flex;
+    position: absolute;
+    top: 28px;
+    font-size: 19px;
+    font-family: cursive;
+    right: 790px;
+
+}
+
+.nav li{
+    display: inline-block;
+
+}
+
+.nav li a{
+    text-decoration: none;
+    color: rgb(250, 246, 246);
+    padding: 11px;
+
+}
+.nav li :hover{
+    color: rgb(71, 70, 119);
+}
+
+.search input{
+    position: absolute;
+    top: 31px;
+    right: 99px;
+    color: black;
+    border: 1px solid white;
+    border-radius: 6px;
+
+}
+.search :hover{
+    background-color: rgb(217, 217, 243);
+    color: black;
+}
+
+.btn :hover{
+    background-color: rgb(217, 217, 243);
+    color: hotpink;
+}
+.btn{
+    background-color: darkgray;
+    cursor: pointer;
+    position: absolute;
+    top: 31px;
+    border: 1px solid rgb(15, 14, 14);
+    border-radius: 6px;
+    right: 35px;
+
+}
+
+
+
+.register{
+    font-size: 76px;
+    position: absolute;
+    top: 93px;
+    font-family: fantasy;
+    color: #3e335f;
+    right: 434px;
+}
+
+.form{
+    display: grid;
+    position: absolute;
+    top: 290px;
+    right: 469px;
+
+}
+
+.form input{
+    padding: 3px;
+    border-radius: 27px;
+    margin: 7px;
+    border: 2px ;
+    text-align: center;
+    width: 302px;
+}
+
+.form :hover{
+    color: rgb(34, 32, 32);
+    background-color: rgb(192, 189, 189);
+}
+
+.submit{
+    position: absolute;
+    top: 445px;
+    right: 577px;
+    width: 100px;
+    border-radius: 5px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+.submit :hover{
+    background-color: rgb(192, 189, 189);
+}
+
+.heading{
+    font-size: 62px;
+    font-family: fantasy;
+    color: #423967;
+    position: absolute;
+    top: 721px;
+    right: 276px;
+    text-shadow: 14px 16px 18px;
+}
+
+.con1 img{
+    width: 334px;
+    box-shadow: 12px 22px 12px;
+    position: absolute;
+    top: 0px;
+    padding: 0px;
+    right: -502px;
+    margin: 1px;
+    border-radius: 228px;
+    opacity: 0.6;
+}
+.con1 img :hover{
+    opacity: 0.9;
+}
+
+.con1{
+    font-size: 18px;
+    font-family: -webkit-pictograph;
+    padding: 1px;
+    margin: 1px;
+    border-radius: 14px;
+    width: 441px;
+    position: absolute;
+    color: currentcolor;
+    top: 877px;
+    right: 637px;
+
+}
+.con2 img{
+    position: absolute;
+    top: 0px;
+    width: 334px;
+    box-shadow: 12px 22px 12px;
+    right: 563px;
+    border-radius: 228px;
+    opacity: 0.6;
+}
+.con2{
+    font-size: 18px;
+    padding: 1px;
+    font-family: -webkit-pictograph;
+    margin: 1px;
+    width: 426px;
+    border-radius: 10px;
+    position: absolute;
+    color: currentcolor;
+    top: 1225px;
+    right: 124px;
+}
+
+.con3{
+    font-size: 18px;
+    padding: 1px;
+    font-family: -webkit-pictograph;
+    margin: 1px;
+    width: 426px;
+    border-radius: 10px;
+    position: absolute;
+    color: currentcolor;
+    top: 1586px;
+    right: 670px;
+}
+
+.con3 img{
+    position: absolute;
+    top: 0px;
+    width: 334px;
+    box-shadow: 12px 22px 12px;
+    right: -505px;
+    border-radius: 228px;
+    opacity: 0.6;
+}
+
+.con5{
+    font-size: 60px;
+    color: gray;
+    font-family: fantasy;
+    position: absolute;
+    top: 1849px;
+    right: 520px;
+    text-shadow: 14px 16px 18px;
+
+}
+
+.con4 img{
+    position: absolute;
+    top: 1953px;
+    opacity: 0.7;
+    height: 262px;
+    right: 284px;
+    width: 56%;
+}
+
+.line{
+    background-color: rgb(172, 170, 170);
+    position: absolute;
+    width: 100%;
+    top: 2283px;
+    height: 292px;
+}
+
+.end img{
+    position: absolute;
+    top: 2647px;
+    width: 30px;
+    padding: 17px;
+    right: 540px;
+    border-radius: 60px;
+    cursor: pointer;
+}
+.facebook a img{
+    position: absolute;
+    top: 2647px;
+    width: 30px;
+    padding: 17px;
+    right: 598px;
+    cursor: pointer;
+}
+
+.twitter a img{
+    position: absolute;
+    top: 2647px;
+    width: 30px;
+    padding: 17px;
+    border-radius: 60px;
+    right: 655px;
+    cursor: pointer;
+}
+.twitter a img :hover{
+    opacity: 0.3;
+    background-color: blue;
+}
+.end-line{
+    top: 2640px;
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: #5f5a5a;
+
+}
+.logo{
+    
+    top: 2000px;
+}
+
+.con6{
+    position: absolute;
+    top: 2352px;
+    width: 63%;
+    color: white;
+    font-family: cursive;
+    font-size: 19px;
+    right: 47px;
+}
+.con6 img{
+    position: absolute;
+    top: -136px;
+    right: 890px;
+    border-radius: 73px;
+    height: 282px;
+}
