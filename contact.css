@@ -1,0 +1,192 @@
+.bf img{
+    width: 106px;
+    border-radius: 10px;
+    margin: 12px;
+}
+.bf{
+    background-color: #7c7c7f;
+    margin: 3px;
+    border-radius: 46px;
+    
+}
+
+.navbar{
+    align-items: center;
+    justify-content: center;
+    position: static;
+    top: 0%;
+    cursor: pointer;
+
+}
+.background img{
+
+    width: 100%;
+    opacity: 0.5;
+    height: 550px;
+    border-radius: 322px;
+}
+.nav{
+    display: inline-flex;
+    position: absolute;
+    top: 28px;
+    font-size: 19px;
+    font-family: cursive;
+    right: 807px;
+}
+
+.nav li{
+    display: inline-block;
+
+}
+
+.nav li a{
+    text-decoration: none;
+    color: rgb(250, 246, 246);
+    padding: 11px;
+
+}
+.nav li :hover{
+    color: rgb(71, 70, 119);
+}
+
+
+.search{
+    position: absolute;
+    top: 24px;
+    right: -6px;
+
+}
+
+.btn {
+    background-color: darkgray;
+    cursor: pointer;
+    position: absolute;
+    top: 7px;
+    border: 1px solid rgb(15, 14, 14);
+    border-radius: 6px;
+    right: 35px;
+}
+.search input{
+    position: absolute;
+    top: 7px;
+    right: 99px;
+    color: black;
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+
+.line{
+    background-color: #858585;
+    position: absolute;
+    width: 100%;
+    top: 292px;
+    height: 13px;
+
+}
+
+.about{
+    color: #858585;
+    font-size: 104px;
+    font-family: fantasy;
+    position: absolute;
+    top: 186px;
+    text-shadow: -26px -6px 13px;
+    right: 751px;
+
+}
+
+.form{
+    display: inline-grid;
+    position: absolute;
+    top: 497px;
+    right: 646px;
+}
+
+
+.form input{
+    padding: 8px;
+    width: 401px;
+    margin: 4px;
+    border-radius: 44px;
+    border: 3px solid rgb(160, 158, 158);
+}
+.form :hover{
+    background-color: rgb(209, 207, 207);
+}
+
+.submit{
+    margin: 40px;
+    border-radius: 5px;
+    border: 4px white;
+}
+
+.con{
+    font-size: 45px;
+    font-family: none;
+    position: absolute;
+    top: 430px;
+    color: white;
+    right: 736px;
+}
+.bg-img img{
+    position: absolute;
+    width: 89%;
+    top: 382px;
+    right: 67px;
+    opacity: 0.6;
+    height: 544px;
+    border-radius: 77px;
+}
+
+.end img{
+    position: absolute;
+    top: 1025px;
+    width: 30px;
+    padding: 17px;
+    right: 655px;
+    border-radius: 60px;
+    cursor: pointer;
+}
+.facebook a img{
+    position: absolute;
+    top: 1025px;
+    width: 30px;
+    padding: 17px;
+    right: 598px;
+    cursor: pointer;
+}
+
+.twitter a img{
+    position: absolute;
+    top: 1025px;
+    width: 30px;
+    padding: 17px;
+    border-radius: 60px;
+    right: 540px;
+    cursor: pointer;
+}
+.end-line{
+    top: 1016px;
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: #5f5a5a;
+
+}
+
+.w-app img{
+    width: 85px;
+    position: absolute;
+    border-radius: 54px;
+    right: 304px;
+    top: 558px;
+}
+
+.no{
+    font-size: 38px;
+    position: absolute;
+    top: 676px;
+    color: ghostwhite;
+    right: 14pc;
+}

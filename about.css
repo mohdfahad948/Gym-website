@@ -1,0 +1,210 @@
+.bf img{
+    width: 106px;
+    border-radius: 10px;
+    margin: 12px;
+}
+.bf{
+    background-color: #7c7c7f;
+    margin: 3px;
+    border-radius: 46px;
+    
+}
+
+.navbar{
+    align-items: center;
+    justify-content: center;
+    position: static;
+    top: 0%;
+    cursor: pointer;
+
+}
+.background img{
+
+    width: 100%;
+    opacity: 0.5;
+    height: 550px;
+    border-radius: 322px;
+}
+.nav{
+    display: inline-flex;
+    position: absolute;
+    top: 28px;
+    font-size: 19px;
+    font-family: cursive;
+    right: 807px;
+}
+
+.nav li{
+    display: inline-block;
+
+}
+
+.nav li a{
+    text-decoration: none;
+    color: rgb(250, 246, 246);
+    padding: 11px;
+
+}
+.nav li :hover{
+    color: rgb(71, 70, 119);
+}
+
+
+.search{
+    position: absolute;
+    top: 30px;
+    right: 29px;
+
+}
+.search input{
+    border: 1px  solid rgb(15, 14, 14);
+        border-radius: 6px;
+}
+
+.btn{
+    background-color: darkgray;
+    cursor: pointer;
+
+}
+
+
+.line{
+    background-color: #858585;
+    position: absolute;
+    width: 100%;
+    top: 292px;
+    height: 13px;
+
+}
+
+.about{
+    color: #858585;
+    font-size: 104px;
+    font-family: fantasy;
+    position: absolute;
+    top: 186px;
+    text-shadow: -26px -6px 13px;
+    right: 751px;
+
+}
+
+.con1 img{
+    width: 334px;
+    position: absolute;
+    top: 0px;
+    padding: 0px;
+    right: -502px;
+    margin: 1px;
+    border-radius: 228px;
+    opacity: 0.6;
+    box-shadow: 12px 22px 12px;
+}
+
+.con1{
+    font-size: 18px;
+    font-family: -webkit-pictograph;
+    padding: 1px;
+    margin: 1px;
+    border-radius: 14px;
+    width: 441px;
+    position: absolute;
+    color: currentcolor;
+    top: 877px;
+    right: 637px;
+
+}
+.con2 img{
+    position: absolute;
+    top: 0px;
+    width: 334px;
+    right: 563px;
+    box-shadow: 12px 22px 12px;
+    border-radius: 228px;
+    opacity: 0.6;
+}
+.con2{
+    font-size: 18px;
+    padding: 1px;
+    font-family: -webkit-pictograph;
+    margin: 1px;
+    width: 426px;
+    border-radius: 10px;
+    position: absolute;
+    color: currentcolor;
+    top: 1225px;
+    right: 124px;
+}
+
+.con3{
+    font-size: 18px;
+    padding: 1px;
+    font-family: -webkit-pictograph;
+    margin: 1px;
+    width: 426px;
+    border-radius: 10px;
+    position: absolute;
+    color: currentcolor;
+    top: 1586px;
+    right: 670px;
+}
+
+.con3 img{
+    position: absolute;
+    top: 0px;
+    width: 334px;
+    box-shadow: 12px 22px 12px;
+    right: -505px;
+    border-radius: 228px;
+    opacity: 0.6;
+}
+
+.full .con1{
+    
+    top: 443px;
+}
+.full .con2{
+    
+    top: 782px;
+}
+
+.full .con3{
+    
+    top: 1102px;
+}
+
+
+.end img{
+    position: absolute;
+    top: 1363px;
+    width: 30px;
+    padding: 17px;
+    right: 655px;
+    border-radius: 60px;
+    cursor: pointer;
+}
+.facebook a img{
+    position: absolute;
+    top: 1363px;
+    width: 30px;
+    padding: 17px;
+    right: 598px;
+    cursor: pointer;
+}
+
+.twitter a img{
+    position: absolute;
+    top: 1363px;
+    width: 30px;
+    padding: 17px;
+    border-radius: 60px;
+    right: 540px;
+    cursor: pointer;
+}
+.end-line{
+    top: 1352px;
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: #5f5a5a;
+
+}
